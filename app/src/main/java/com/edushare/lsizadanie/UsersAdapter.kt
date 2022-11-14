@@ -6,8 +6,9 @@ import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.edushare.lsizadanie.databinding.UsersListItemBinding
-import com.edushare.lsizadanie.model.User
-import eu.adamgiergun.lsi.util.ClickListener
+import com.edushare.lsizadanie.other.ClickListener
+import com.edushare.lsizadanie.room.User
+
 
 class UsersAdapter(
     private val clickListener: ClickListener<User>

@@ -7,11 +7,11 @@
 
         <variable
             name="user"
-            type="com.edushare.lsizadanie.model.User" />
+            type="com.edushare.lsizadanie.room.User" />
 
         <variable
             name="listener"
-            type="eu.adamgiergun.lsi.util.ClickListener" />
+            type="com.edushare.lsizadanie.other.ClickListener" />
     </data>
 
     <androidx.cardview.widget.CardView
@@ -19,7 +19,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="@{() -> listener.onClick(user)}"
-        app:cardBackgroundColor="@color/background_color"
+
         tools:context=".users.userslist.UsersListFragment">
 
         <androidx.constraintlayout.widget.ConstraintLayout

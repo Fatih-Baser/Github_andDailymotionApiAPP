@@ -8,8 +8,10 @@ import android.view.ViewGroup
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
 import com.edushare.lsizadanie.databinding.FragmentFeedBinding
+import com.edushare.lsizadanie.other.ClickListener
+
 import dagger.hilt.android.AndroidEntryPoint
-import eu.adamgiergun.lsi.util.ClickListener
+
 
 @AndroidEntryPoint
 class FeedFragment : Fragment() {

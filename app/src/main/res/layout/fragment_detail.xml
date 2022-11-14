@@ -7,7 +7,7 @@
 
         <variable
             name="user"
-            type="com.edushare.lsizadanie.model.User" />
+            type="com.edushare.lsizadanie.room.User" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
