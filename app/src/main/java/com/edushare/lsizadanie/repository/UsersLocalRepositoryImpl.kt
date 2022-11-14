@@ -1,7 +1,7 @@
 package com.edushare.lsizadanie.repository
 
 import androidx.lifecycle.Transformations
-import com.edushare.lsizadanie.room.User
+import com.edushare.lsizadanie.model.User
 import com.edushare.lsizadanie.room.UsersDao
 
 import javax.inject.Inject

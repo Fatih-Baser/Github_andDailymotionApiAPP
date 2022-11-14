@@ -1,4 +1,4 @@
-package com.edushare.lsizadanie.room
+package com.edushare.lsizadanie.model
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
