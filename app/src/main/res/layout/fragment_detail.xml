@@ -15,7 +15,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
 
-        tools:context=".users.userdetails.UserDetailsFragment">
+        tools:context=".DetailFragment">
 
         <ImageView
             android:id="@+id/avatar_view"

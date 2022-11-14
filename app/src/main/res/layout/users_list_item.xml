@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:onClick="@{() -> listener.onClick(user)}"
 
-        tools:context=".users.userslist.UsersListFragment">
+        tools:context=".FeedFragment">
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:id="@+id/constraintLayout"
