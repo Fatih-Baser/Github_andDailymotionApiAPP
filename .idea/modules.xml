@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lsizadanie.iml" filepath="$PROJECT_DIR$/.idea/modules/Lsizadanie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lsizadanie.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lsizadanie.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lsizadanie.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lsizadanie.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lsizadanie.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lsizadanie.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lsizadanie.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lsizadanie.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

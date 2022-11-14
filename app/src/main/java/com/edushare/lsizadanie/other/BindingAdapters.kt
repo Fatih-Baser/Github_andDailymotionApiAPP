@@ -19,7 +19,7 @@ fun ImageView.bindAvatar(avatarUrl: String?) {
             .load(avatarUri)
             .apply(
                 RequestOptions()
-                    .placeholder(R.drawable.loading_animation)
+
                     .error(R.drawable.ic_launcher_background)
             )
             .into(this)
